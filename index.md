@@ -49,29 +49,30 @@ Each student will Final project will involve a more extensive simulation-based i
 Date            | Topic | Reading |
 -----            | ------ | ------ |
 Sept 6       |Models of Evolution | Chapter 1 |
-Sept 6       |Models of Evolution | Chapter 1 |
-Sept 6       |Models of Evolution | Chapter 1 |
-Sept 6       |Models of Evolution | Chapter 1 |
-Sept 6       |Models of Evolution | Chapter 1 |
-Sept 6       |Models of Evolution | Chapter 1 |
-Sept 6       |Models of Evolution | Chapter 1 |
-Sept 6       |Models of Evolution | Chapter 1 |
-Sept 6       |Models of Evolution | Chapter 1 |
-Sept 6       |Models of Evolution | Chapter 1 |
-Sept 6       |Models of Evolution | Chapter 1 |
-Sept 6       |Models of Evolution | Chapter 1 |
-
+Sept 13°       |Genetic Variation | Chapter 3 |
+Sept 20*        |The Coalescent model | Chapter 6 |
+Sept 27°       |Recombination | Chapter 4 |
+Oct 4*°       |Population Structure | Chapter 5 |
+Oct 11      |MIDTERM |  |
+Oct 18°       |Direct Selection | Chapter 7 |
+Oct 25*°       |Linked Selection | Chapter 8 |
+Nov 1*°       |Demographic History part 1 | Chapt 9 (203-221) |
+Nov 8*°       |Demographic History part 2 | Chapt 9 (222-248 |
+Nov 15°       |Special topics  | TBA |
+Nov 22°       |Special topics  |TBA |
+Dec 6       |Project Presentations  | N/A |
+Dec 13       |Project Presentations  | N/A  |
 
 ## Tentative Schedule
 Date                	Topic                           Reading
 Sept 6              	Models of Evolution             Chapter 1
 Sept 13°          	Genetic Variation               Chapter 3
-Sept 20 *           	The Coalescent model            Chapter 6
+Sept 20*           	The Coalescent model            Chapter 6
 Sept 27°            	Recombination                   Chapter 4
 Oct 4*°             	Population Structure            Chapter 5
 Oct 11              	MIDTERM
 Oct 18°             	Direct Selection                Chapter 7
-Oct 25*°            	Linked Selection                Chapter 9
+Oct 25*°            	Linked Selection                Chapter 8
 Nov 1*°             	Demographic History part 1      Chapt 9 (203-221)
 Nov 8*°             	Demographic History part 2      Chapt 9 (222-248)
 Nov 15°       		Special topics                  TBA
