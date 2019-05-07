@@ -46,6 +46,8 @@ On some of the weeks, we will have a discussion in the 2nd half of the class. In
 Each student will Final project will involve a more extensive simulation-based inference of real data (your own or published data). This project can be modest in scope, but can lead to a downstream publication. 
 
 ## Tentative Schedule
+
+
 Date            | Topic | Reading |
 -----            | ------ | ------ |
 Sept 6       |Models of Evolution | Chapter 1 |
@@ -57,12 +59,11 @@ Oct 11      |MIDTERM |  |
 Oct 18°       |Direct Selection | Chapter 7 |
 Oct 25*°       |Linked Selection | Chapter 8 |
 Nov 1*°       |Demographic History part 1 | Chapt 9 (203-221) |
-Nov 8*°       |Demographic History part 2 | Chapt 9 (222-248 |
+Nov 8*°       |Demographic History part 2 | Chapt 9 (222-248) |
 Nov 15°       |Special topics  | TBA |
 Nov 22°       |Special topics  |TBA |
 Dec 6       |Project Presentations  | N/A |
 Dec 13       |Project Presentations  | N/A  |
-
 
  * Indicates simulation assignment due and briefly presented (assigned friday before). 
  ° Indicates reading based discussion (assigned friday before)
