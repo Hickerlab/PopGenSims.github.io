@@ -46,6 +46,23 @@ On some of the weeks, we will have a discussion in the 2nd half of the class. In
 Each student will Final project will involve a more extensive simulation-based inference of real data (your own or published data). This project can be modest in scope, but can lead to a downstream publication. 
 
 ## Tentative Schedule
+Date            | Topic | Reading |
+-----            | ------ | ------ |
+Sept 6       |Models of Evolution | Chapter 1 |
+Sept 6       |Models of Evolution | Chapter 1 |
+Sept 6       |Models of Evolution | Chapter 1 |
+Sept 6       |Models of Evolution | Chapter 1 |
+Sept 6       |Models of Evolution | Chapter 1 |
+Sept 6       |Models of Evolution | Chapter 1 |
+Sept 6       |Models of Evolution | Chapter 1 |
+Sept 6       |Models of Evolution | Chapter 1 |
+Sept 6       |Models of Evolution | Chapter 1 |
+Sept 6       |Models of Evolution | Chapter 1 |
+Sept 6       |Models of Evolution | Chapter 1 |
+Sept 6       |Models of Evolution | Chapter 1 |
+
+
+## Tentative Schedule
 Date                	Topic                           Reading
 Sept 6              	Models of Evolution             Chapter 1
 Sept 13°          	Genetic Variation               Chapter 3
