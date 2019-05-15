@@ -25,13 +25,13 @@ Texts:  Matthew Hahn - Molecular Population Genetics
 ## Description
 This course will be a hybrid between a standard population genetic graduate course and a hands-on methodology course. Instead of working on and turning in homework problems each week about the associated material covered, you will design, implement and visualize population genomic data simulations related to each week’s topic. For example, one week we might be covering models of population subdivision whereby you could explore and summarize simulations of whole genomes sampled from a stepping stone model of population history over a period of 20,000 generations. The simulation program we’ll be using is SLIM v3.x which enables rapid simulation of complex geographic demographic histories with and without selection at arbitrary levels of genomic sampling (i.e. whole chromosomes or SNP data). This capability offers an excellent pedagogical tool and opportunity to build intuition for patterns of genetic variation in complex (or simple!) phylogeographic scenarios. Beyond useful exploration, simulation methods are routinely used in statistical inference such as machine learning methods, or to compare between different mechanistic models using approximate Bayesian computation. Moreover, simulation-based inference has proved to be extremely useful for problems that may be analytically intractable. 
 
-Grading: 	
-Simulation Assignments						    150 pts
-	5 assignments (30 pts each)
-Leading Discussions							      100 pts
-Midterm										            100 pts
-Final Simulation Project					    150 pts
-			Total							              500 pts
+Grading:            |  |  |
+Simulation Assignments           |5 assignments (30 pts each)  | 150 pts |
+Leading Discussions           | allocation TBA | 100 pts |
+Midterm           |  | 100 pts |
+Final Simulation Project|  | 150 pts |
+Total|  | 500 pts |
+
 
 ## Re-grading policy:  
 Requests for re-grades must be made within one week of the assignment being handed back to the student.  Only assignments/exams done in pen can be submitted for a regrade.  Midterms will only be regarded if it has the potential to affect your final grade.  
@@ -65,7 +65,7 @@ Nov 22°       |Special topics  |TBA |
 Dec 6       |Project Presentations  | N/A |
 Dec 13       |Project Presentations  | N/A  |
 
- * Indicates simulation assignment due and briefly presented (assigned friday before). 
+ *Indicates simulation assignment due and briefly presented (assigned friday before). 
  ° Indicates reading based discussion (assigned friday before)
 
 
