@@ -60,8 +60,7 @@ Oct 11      |MIDTERM |  |
 Oct 18       |Direct Selection | Chapter 7 |
 Oct 25*°       |Linked Selection | Chapter 8 |
 Nov 1*°       |Demographic History part 1 | Chapt 9 (203-221) |
-Nov 4-8        |5 day workshop by Ben Haller - SLiM|
-
+Nov 4-8        |5 day workshop by Ben Haller | SLiM |
 Nov 15       |Demographic History part 2 | Chapt 9 (222-248) |
 Nov 22°       |Special topics  |TBA |
 Dec 6       |Project Presentations  | N/A |
