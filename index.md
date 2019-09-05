@@ -23,7 +23,7 @@ Lecture: Fridays 9:30am -12:30pm at the CUNY GC; room = TBA
 Texts:  Matthew Hahn - Molecular Population Genetics
 
 ## Description
-This course will be a hybrid between a standard population genetic graduate course and a hands-on methodology course. Instead of working on and turning in homework problems each week about the associated material covered, you will design, implement and visualize population genomic data simulations related to each week’s topic. For example, one week we might be covering models of population subdivision whereby you could explore and summarize simulations of whole genomes sampled from a stepping stone model of population history over a period of 20,000 generations. The simulation program we’ll often be using is SLIM v3.x which enables rapid simulation of complex geographic demographic histories with and without selection at arbitrary levels of genomic sampling (i.e. whole chromosomes or SNP data). This capability offers an excellent pedagogical tool and opportunity to build intuition for patterns of genetic variation in complex (or simple!) phylogeographic scenarios. However, we will also explore with other simulation tools, and for your final simulation project there is no one required simulation software. 
+This course will be a hybrid between a standard population genetic graduate course and a hands-on methodology course. Instead of working on and turning in homework problems each week about the associated material covered, you will design, implement and visualize population genomic data simulations related to each week’s topic. For example, one week we might be covering models of population subdivision whereby you could explore and summarize simulations of whole genomes sampled from a stepping stone model of population history over a period of 20,000 generations. The simulation program we’ll often be using is SLIM v3.x which enables rapid simulation of complex geographic demographic histories with and without selection at arbitrary levels of genomic sampling (i.e. whole chromosomes or SNP data). This capability offers an excellent pedagogical tool and opportunity to build intuition for patterns of genetic variation in complex (or simple!) phylogeographic scenarios. However, we will also explore with other simulation tools (e.g. PipeMaster), and for your final simulation project there is no one required simulation software (you can something else instead of SLIM). 
 Beyond useful exploration, simulation methods are routinely used in statistical inference such as machine learning methods, or to compare between different mechanistic models using approximate Bayesian computation. Moreover, simulation-based inference has proved to be extremely useful for problems that may be analytically intractable. 
 
 Item            | note | points |
@@ -60,7 +60,7 @@ Oct 4°       |Population Structure | Chapter 5 |
 Oct 11      |MIDTERM |  |
 Oct 18       |Direct Selection | Chapter 7 |
 Oct 25*°       |Linked Selection | Chapter 8 |
-Nov 1*°       |Demographic History part 1 | Chapt 9 (203-221) |
+Nov 1*°       |Demographic History part 1 (guest appearence by Ariadna Morales - phrapl ) | Chapt 9 (203-221) |
 Nov 4-8        |5 day workshop by Ben Haller | SLiM |
 Nov 15       |Demographic History part 2 | Chapt 9 (222-248) |
 Nov 22°       |Special topics  |TBA |
