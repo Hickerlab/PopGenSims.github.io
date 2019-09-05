@@ -39,7 +39,7 @@ Total|  | 500 pts |
 Requests for re-grades must be made within one week of the assignment being handed back to the student.  Only assignments/exams done in pen can be submitted for a regrade.  Midterms will only be regarded if it has the potential to affect your final grade.  
 
 ## Simulation Assignments:  
-An simulation assignment will sometimes be given during a lecture, due one week later in the beginning of lecture. You are free to work in groups, but each individual is responsible for designing and running simulation in addition to analyzing and/or visualizing the results.   Late penalty will be 20% of the assignment’s value per week late. Each student can briefly demonstrate their simulation results at the starting hour class. The final project will involve a more extensive simulation-based inference of real data (your own or published data). 
+An simulation assignment will sometimes be given during a lecture, due one week later at the start of class. You are free to work in groups, but each individual is responsible for designing and running simulation in addition to analyzing and/or visualizing the results.   Late penalty will be 20% of the assignment’s value per week late. Each student can briefly demonstrate their simulation results at the start of class. The final project will involve a more extensive simulation-based inference of real data (your own or published data). 
 	
 ## Chapter-based discussions: 
 On some of the weeks, we will have a discussion in the 2nd half of the class. In this case, two randomly selected people will lead the discussion on the assigned chapter of Hahn (or paper, TBA). The actual paper assignment will be given the week before. After you lead two discussions, you are off the hook 
