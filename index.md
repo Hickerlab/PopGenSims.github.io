@@ -45,7 +45,8 @@ An simulation assignment will sometimes be given during a lecture, due one week 
 On some of the weeks, we will have a discussion in the 2nd half of the class. In this case, two randomly selected people will lead the discussion on the assigned chapter of Hahn (or paper, TBA). The actual paper assignment will be given the week before. After you lead two discussions, you are off the hook 
 
 ## Final Project Presentation: 
-Each student will Final project will involve a more extensive simulation-based inference of real data (your own or published data). This project can be modest in scope, but can lead to a downstream publication. 
+Each student will Final project will involve a more extensive simulation-based inference of real data (your own or published data). Alternatively, one can conduct stand-alone simulation experiments that answer questions about observable predictions under different hypotheses/models of interest. This project can be modest in scope, but can lead to a downstream publication. Oral presentation of final project at the end of the semester
+(15 min, 3 min for questions)
 
 ## Tentative Schedule
 
