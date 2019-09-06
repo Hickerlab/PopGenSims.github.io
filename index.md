@@ -53,7 +53,7 @@ Each student will Final project will involve a more extensive simulation-based i
 
 Date            | Topic | Reading |
 -----            | ------ | ------ |
-Sept 6       |Models of Evolution | Chapter 1 |
+Sept 6       |Models of Evolution ([Lecture 1a](Lecture_files/Lecture1a_Intro_PopGen2019.pdf)) | Chapter 1 |
 Sept 13°       |Genetic Variation | Chapter 3 |
 Sept 20*        |The Coalescent model | Chapter 6 |
 Sept 27*       |Recombination | Chapter 4 |
