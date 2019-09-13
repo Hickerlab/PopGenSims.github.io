@@ -58,7 +58,7 @@ Sept 13°       |Genetic Variation | Chapter 3 |
 Sept 20*        |The Coalescent model | Chapter 6 |
 Sept 27*       |Recombination (guest appearence by Marcelo Gehara - PipeMaster ) | Chapter 4 |
 Oct 4°       |Population Structure | Chapter 5 |
-Oct 11      |MIDTERM |  |
+Oct 11      |MIDTERM (1rst half) - final project proposals, 5 min each (2nd half) |  |
 Oct 18       |Direct Selection | Chapter 7 |
 Oct 25*°       |Linked Selection | Chapter 8 |
 Nov 1*°       |Demographic History part 1 (guest appearence by Ariadna Morales - phrapl ) | Chapt 9 (203-221) |
