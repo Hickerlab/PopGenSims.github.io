@@ -56,7 +56,7 @@ Date            | Topic | Reading |
 Sept 6       |Models of Evolution ([Lecture 1a](Lecture_files/Lecture1a_Intro_PopGen2019.pdf)) | Chapter 1 |
 Sept 13°       |Genetic Variation ([Lecture 1b](Lecture_files/Lecture1b_Intro_PopGen.pdf)) ([Lecture 2](Lecture_files/Lecture2_variation_PopGen.key.pdf))  | Chapter 3 |
 Sept 20*        |The Coalescent model ([Lecture 3](Lecture_files/Lecture3_coalescent_Hick_PopGen.pdf)) | Chapter 6 |
-Sept 27*       |Recombination (guest appearence by Marcelo Gehara - PipeMaster ) | Chapter 4 |
+Sept 27*       | (guest appearence by Marcelo Gehara - PipeMaster ) | Chapter 4 |
 Oct 4°       |Population Structure | Chapter 5 |
 Oct 11      |MIDTERM (1rst half) - final project proposals, 5 min each (2nd half) |  |
 Oct 18       |Direct Selection | Chapter 7 |
