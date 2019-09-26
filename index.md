@@ -18,7 +18,7 @@ Office Hours: by appointment
 e-mail: mhickerson@ccny.cuny.edu
 
 ## Course Details
-Lecture: Fridays 9:30am -12:30pm at the CUNY GC; room = TBA
+Lecture: Fridays 9:30am -12:30pm at the CUNY GC; room = 7395
 
 Texts:  Matthew Hahn - Molecular Population Genetics
 
