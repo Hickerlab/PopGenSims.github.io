@@ -56,10 +56,10 @@ Date            | Topic | Reading |
 Sept 6       |Models of Evolution ([Lecture 1a](Lecture_files/Lecture1a_Intro_PopGen2019.pdf)) | Chapter 1 |
 Sept 13°       |Genetic Variation ([Lecture 1b](Lecture_files/Lecture1b_Intro_PopGen.pdf)) ([Lecture 2](Lecture_files/Lecture2_variation_PopGen.key.pdf))  | Chapter 3 |
 Sept 20*        |The Coalescent model ([Lecture 3](Lecture_files/Lecture3_coalescent_Hick_PopGen.pdf)) | Chapter 6 |
-Sept 27*       | (guest appearence by Marcelo Gehara - PipeMaster ) | PipeMaster Tutorial |
-Oct 4°       |Population Structure | Chapter 5 |
-Oct 11      |MIDTERM (1rst half) - final project proposals, 5 min each (2nd half) |  |
-Oct 18       |Direct Selection | Chapter 7 |
+Sept 27        | (guest appearence by Marcelo Gehara - PipeMaster ) | PipeMaster Tutorial |
+Oct 4°*       |Population Structure ([Lecture 4](Lecture_files/Lecture4_Hick_PopGen_SubDivision2019.pdf)) | Chapter 5 |
+Oct 11      | final project proposals, 5 min each & Take home midterm distributed |  |
+Oct 18       |Direct Selection; Take home midterm due | Chapter 7 |
 Oct 25*°       |Linked Selection | Chapter 8 |
 Nov 1*°       |Demographic History part 1 (guest appearence by Ariadna Morales - phrapl ) | Chapt 9 (203-221) |
 Nov 4-8        |5 day workshop by Ben Haller | SLiM |
