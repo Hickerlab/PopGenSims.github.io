@@ -59,7 +59,7 @@ Sept 20*        |The Coalescent model ([Lecture 3](Lecture_files/Lecture3_coales
 Sept 27        | (guest appearence by Marcelo Gehara - PipeMaster ) | PipeMaster Tutorial |
 Oct 4°*       |Population Structure ([Lecture 4](Lecture_files/Lecture4_Hick_PopGen_SubDivision2019.pdf)) | Chapter 5 |
 Oct 11      | final project proposals, 5 min each & Take home midterm distributed |  |
-Oct 18       |Direct Selection; Take home midterm due | Chapter 7 |
+Oct 18       |Direct Selection([Lecture 5](Lecture_files/Lecture5_Selection1.pdf)); ([ABCs Step by Step](Lecture_files/Hickerson_ABCStepsByStep.pdf)); Take home midterm due | Chapter 7 |
 Oct 25*°       |Linked Selection | Chapter 8 |
 Nov 1*°       |Demographic History part 1 (guest appearence by Ariadna Morales - phrapl ) | Chapt 9 (203-221) |
 Nov 4-8        |5 day workshop by Ben Haller | SLiM |
