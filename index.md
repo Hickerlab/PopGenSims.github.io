@@ -63,7 +63,7 @@ Oct 18       |Direct Selection([Lecture 5](Lecture_files/Lecture5_Selection1.pdf
 Oct 25*°       |Linked Selection | Chapter 8 |
 Nov 1*°       |Demographic History part 1 (guest appearence by Ariadna Morales - phrapl ) | Chapt 9 (203-221) |
 Nov 4-8        |5 day workshop by Ben Haller | SLiM |
-Nov 15       |Demographic History part 2 | Chapt 9 (222-248) |
+Nov 15       |Demographic History part 2 ([Lecture 7](Lecture_files/Lecture7_Demographic_history_Hick_PopGen_2019.pdf)) | Chapt 9 (222-248) |
 Nov 22*°       |Special topics  |TBA |
 Dec 6       |Project Presentations  | N/A |
 Dec 13       |Project Presentations  | N/A  |
